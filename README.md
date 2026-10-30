@@ -1,3 +1,12 @@
+
+
+## 🚀 Live Application
+
+[Launch ReviewSense AI](https://sentiment-analysis-nwprbsteo5fsesp4lgfkkp.streamlit.app/))
+
+Classify customer reviews using a pre-trained
+DistilBERT Transformer with Hugging Face.
+
 # 💬 ReviewSense AI — Customer Review Sentiment Analysis
 
 A beginner-friendly NLP project that classifies customer reviews as **POSITIVE** or **NEGATIVE** using a publicly available, pre-trained **DistilBERT Transformer** and Hugging Face `pipeline()`.
